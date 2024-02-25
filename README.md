@@ -6,3 +6,5 @@ private Redis server and a public Webdis server and connect them.
 ## Deployment
 
 Follow the guide at https://render.com/docs/deploy-webdis-docker/.
+
+<sample change to redeploy redis
